@@ -4,6 +4,7 @@
 )
 
 <img src="./app/static/image/banner.png" alt="STOCK MARKET PREDICTION">
+## proplem defination The problem is to build a predictive model that forecasts stock prices based on historical market data. The goal is to create a tool that assists investors in making well-informed decisions and optimizing their investment strategies. This project involves data collection, data preprocessing, feature engineering, model selection, training, and evaluation! [Uploading image.png…]()(http![image]s://github.com/Sindhusri256/ADS_phase1/assets/145847480/e34e69bc-7fdd-45a3-b42c-e6767037c59f)
 
 ## Introduction
 <p>
